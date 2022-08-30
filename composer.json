@@ -1,0 +1,7 @@
+{
+"name": "davis/davis_office",
+"description": "Drupal Custom Theme",
+"type": "drupal-custom-theme",
+"minimum-stability": "dev",
+"require": {}
+}
