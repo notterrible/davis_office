@@ -1,9 +1,9 @@
 .site-branding {
-  background-image: linear-gradient(160deg, #1ee353 0%,#056624 78.66%);
-  #background-image: linear-gradient(160deg,#e33f1e 0%,#e89180 78.66%);
+  #background-image: linear-gradient(160deg, #1ee353 0%,#056624 78.66%);
+  background-image: linear-gradient(160deg,#e33f1e 0%,#e89180 78.66%);
 }
 
 .site-header__initial {
-  background-color:  #1ee353;
-  #background-color: #e33f1e;
+  #background-color:  #1ee353;
+  background-color: #e33f1e;
 }
